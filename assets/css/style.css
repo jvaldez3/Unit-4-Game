@@ -1,0 +1,9 @@
+body {
+    background-image: url("../image/Crystal-BG.jpg");
+    background-repeat: no-repeat;
+    background-size: 110%;
+}
+
+#number-to-guess {
+    font-size: 16px;
+}
